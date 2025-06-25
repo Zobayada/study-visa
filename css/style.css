@@ -1224,7 +1224,8 @@ li.shopping-cart a {
 }
 
 .about-img img {
-    width: 100%;
+    width: 50px;
+    height: 50px;
 }
 
 .about-title-section-2 h1 {
@@ -1240,6 +1241,42 @@ li.shopping-cart a {
     padding-right: 84px;
 }
 
+.section-sp1 {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+.section-sp1 h2{
+    font-weight: 700;
+    font-family: poppins, sans-serif;
+}
+
+.section-sp1 p{
+    font-family: poppins, sans-serif;
+}
+
+.section-sp1 img{
+    box-shadow: 0 .5rem 2rem rgba(0, 0, 0, .15) !important;
+    border-radius: 50% !important;
+}
+
+.bg-gray {
+    background-color: #F7F9FB;
+}
+
+.heading-bx {
+    margin-bottom: 40px;
+}
+
+
+.heading-bx p {
+    padding-top: 10px;
+    font-size: 16px;
+    color: #0f192d;
+    line-height: 28px;
+    margin-bottom: 24px;
+    font-family: poppins, sans-serif;
+}
 .university-banner img {
     width: 100%;
 }
