@@ -1399,7 +1399,7 @@ li.shopping-cart a {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 30px;
+  gap: 50px;
   margin-bottom: 40px;
 }
 
