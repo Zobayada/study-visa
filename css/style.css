@@ -251,7 +251,17 @@ label {
     white-space: nowrap;
 }
 
-
+.btn-style-one {
+    display: inline-block;
+    font-size: 19px;
+    color: #ffffff;
+    padding: 8px 10px;
+    font-weight: 600;
+    border-radius: 3px;
+    text-transform: capitalize;
+    font-family: 'Montserrat';
+    background: linear-gradient(to right, #7b0101, #007e01);
+}
 
 .blue-bg:hover {
     background-color: #002147;
