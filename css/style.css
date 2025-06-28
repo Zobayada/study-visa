@@ -231,7 +231,7 @@ label {
 
 /* button style */
 .btn {
-    -moz-user-select: none;
+    user-select: none;
     background: #a1373e;
     border: medium none;
     border-radius: 0;
@@ -593,7 +593,6 @@ li.shopping-cart a {
     color: #ddd;
 }
 
-.toggle-search-box {}
 
 .toggle-search-icon a:hover .toggle-search-box form {
     opacity: 1;
@@ -3177,6 +3176,40 @@ span.published-time.published-location {
 
 .blog-bottom-2 {
     margin-top: 10px;
+}
+/* procedue */
+.heading-bx {
+    margin-bottom: 40px;
+}
+
+.heading-bx.left .title-head {
+    border-color: #f7b205;
+}
+
+.heading-bx.left .title-head {
+    margin-bottom: 10px;
+    margin-top: 0;
+    line-height: 32px;
+    padding-left: 10px;
+    border-left: 5px solid #f7b205;
+}
+
+h5{
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    text-align: left;
+}
+
+.list {
+    padding-left: 25px;
+    line-height: 2;
+}
+
+.list li{
+    list-style-type: disc;
+    font-size: 15px;
 }
 
 .news-meta span {
