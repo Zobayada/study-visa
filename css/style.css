@@ -472,6 +472,24 @@ label {
     width: 310px;
 }
 
+/* Responsive logo size */
+.logo img {
+  max-width: 310px;
+  height: 60px;
+}
+@media (max-width: 1200px) {
+  .logo img {
+    max-width: 180px;
+    height: 40px;
+  }
+}
+@media (max-width: 991px) {
+  .logo img {
+    max-width: 250px;
+    height: 50px;
+  }
+}
+
 .header-contact-phone {
 	margin-right: 35px;
 	position: relative;
