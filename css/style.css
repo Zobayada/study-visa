@@ -1067,10 +1067,8 @@ li.shopping-cart a {
 
 .animated.fadeInUp.welcome_text{
     color: #fff;
-    font-size: 20px;
-    border: 2px solid #b5aeae;
+    font-size: 30px;
     padding: 1px 15px;
-    border-radius: 50px;
     line-height: normal;
     font-weight: 600;
     font-family: monospace;
@@ -1080,7 +1078,7 @@ li.shopping-cart a {
 
 /* home box */
 .box-area {
-    margin-top: -60px;
+    margin-top: 70px;
 }
 .nth-01 {
     z-index: 2;
